@@ -4,7 +4,7 @@ Most frequently asked questions.
 
 ### What is the purpose of repository?
 
-Learning, of course.
+Learning, of course!
 
 ### My goal is to prepare for a DevOps interviews. Should I use this repository?
 
